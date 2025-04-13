@@ -11,7 +11,7 @@
     "human-readable-numbers": "^0.9.5",
     "prompts": "*",
     "is-domain": "0.0.1",
-    "minimist": "1.2.6",
+    "minimist": "1.2.8",
     "moniker": "0.1.2",
     "netrc": "0.1.4",
     "progress": "2.0.3",
