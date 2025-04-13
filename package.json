@@ -15,7 +15,7 @@
     "moniker": "0.1.2",
     "netrc": "0.1.4",
     "progress": "2.0.3",
-    "read": "1.0.5",
+    "read": "1.0.7",
     "request": "^2.88.0",
     "surge-ignore": "0.2.0",
     "surge-sdk": "0.6.4",
